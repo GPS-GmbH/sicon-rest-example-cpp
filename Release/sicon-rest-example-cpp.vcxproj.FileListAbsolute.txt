@@ -1,0 +1,4 @@
+C:\Users\MartinMuzatko\source\repos\sicon-rest-example-cpp\Release\sicon-rest-example-cpp.vcxproj.CopyComplete
+C:\Users\MartinMuzatko\source\repos\sicon-rest-example-cpp\Release\sicon-rest-example-cpp.exe
+C:\Users\MartinMuzatko\source\repos\sicon-rest-example-cpp\Release\libcurl.dll
+C:\Users\MartinMuzatko\source\repos\sicon-rest-example-cpp\Release\zlib1.dll
