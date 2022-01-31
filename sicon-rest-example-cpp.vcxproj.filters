@@ -66,15 +66,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Library Include="restclient-cpp.lib">
-      <Filter>Header Files</Filter>
-    </Library>
-    <Library Include="zlib.lib">
-      <Filter>Header Files</Filter>
-    </Library>
-    <Library Include="libcurl.lib">
-      <Filter>Header Files</Filter>
-    </Library>
-  </ItemGroup>
 </Project>
